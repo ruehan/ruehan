@@ -2,8 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/ed8163e8-aa6a-4cb4-827e-780d53c1f10e.svg)](https://wakatime.com/@ed8163e8-aa6a-4cb4-827e-780d53c1f10e)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vendredl&layout=compact&langs_count=10&theme=dark)
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
