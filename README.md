@@ -28,8 +28,6 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruehan&hide_progress=true)
-
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2047%20mins-blue)
 
