@@ -29,7 +29,8 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <br>
 <br>
-
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruehan&hide_progress=true)
 
 
