@@ -27,7 +27,7 @@
 
 </p>
 
-![](https://gh-hits.nomadcoders.workers.dev/view?username=$ruehan)
+![](https://gh-hits.nomadcoders.workers.dev/view?username=ruehan)
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2028%20mins-blue)
 
