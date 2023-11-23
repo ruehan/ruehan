@@ -72,7 +72,7 @@ Linux                    8 hrs 12 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2023 18:32:55 UTC
+ Last Updated on 23/11/2023 18:32:18 UTC
 <!--END_SECTION:waka-->
 
 
