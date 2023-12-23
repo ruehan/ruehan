@@ -34,7 +34,7 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ruehan)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,7 +76,7 @@ Linux                    1 hr 42 mins        ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2023 18:32:16 UTC
+ Last Updated on 23/12/2023 18:32:24 UTC
 <!--END_SECTION:waka-->
 
 
