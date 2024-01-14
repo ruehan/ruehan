@@ -34,7 +34,7 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ruehan)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,13 +56,14 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    8 hrs 50 mins       █████████████████████████   100.00 % 
+Other                    13 hrs 46 mins      █████████████████████████   100.00 % 
+TradingView              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 에디터들: 
-Arc                      8 hrs 50 mins       █████████████████████████   100.00 % 
+Arc                      13 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      8 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **타임라인**
@@ -70,7 +71,7 @@ Mac                      8 hrs 50 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2024 18:32:12 UTC
+ Last Updated on 14/01/2024 18:32:24 UTC
 <!--END_SECTION:waka-->
 
 
