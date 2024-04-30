@@ -2,6 +2,7 @@
 
 
 - Blog : [RueHan-log](https://ruehan.com)
+- Travel-log : [Travel-log](https://ruehan-travel.com)
  
 - 한국전자기술연구원(KETI) Software Researcher (2021.10 ~ 2023.3) Flask / Python / Vue.js
 
