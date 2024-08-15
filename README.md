@@ -34,7 +34,7 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ruehan)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C504%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C504%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -56,10 +56,10 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               15 hrs 18 mins      ████████████████░░░░░░░░░   64.29 % 
+TypeScript               15 hrs 18 mins      ████████████████░░░░░░░░░   64.28 % 
 JavaScript               3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 CSS                      3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-SSH Config               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+SSH Config               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 HTML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 에디터들: 
@@ -75,7 +75,7 @@ Linux                    3 hrs 10 mins       ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2024 18:35:45 UTC
+ Last Updated on 15/08/2024 18:36:22 UTC
 <!--END_SECTION:waka-->
 
 
