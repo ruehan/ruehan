@@ -5,6 +5,14 @@
  
 - 한국전자기술연구원(KETI) Software Researcher (2021.10 ~ 2023.3) Flask / Python / Vue.js
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ruehan?pet-id=627410155949612974"
+    width="600"
+    height="120"
+  />
+</a>
+
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -78,13 +86,7 @@ Linux                    9 hrs 22 mins       ███████████�
 <!--END_SECTION:waka-->
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/ruehan?pet-id=627410155949612974"
-    width="600"
-    height="120"
-  />
-</a>
+
   
 
 
