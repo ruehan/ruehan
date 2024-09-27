@@ -9,7 +9,7 @@
   <img
     src="https://render.gitanimals.org/lines/ruehan?pet-id=627410155949612974"
     width="600"
-    height="120"
+    height="250"
   />
 </a>
 
