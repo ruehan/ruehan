@@ -6,11 +6,7 @@
 - 한국전자기술연구원(KETI) Software Researcher (2021.10 ~ 2023.3) Flask / Python / Vue.js
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/ruehan?pet-id=627410155949612974"
-    width="600"
-    height="250"
-  />
+  <img src="https://render.gitanimals.org/farms/ruehan"/>
 </a>
 
 <h3 align="center"> Tech Stack </h3>
