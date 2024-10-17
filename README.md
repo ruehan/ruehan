@@ -46,7 +46,7 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ruehan)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C545%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C545%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,13 +68,13 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Python                   42 mins             █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Linux                    42 mins             █████████████████████████   100.00 % 
 ```
 
 **타임라인**
@@ -82,7 +82,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2024 18:37:54 UTC
+ Last Updated on 17/10/2024 18:37:31 UTC
 <!--END_SECTION:waka-->
 
 
