@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HANGYU&fontSize=70&animation=twinkling)
 
 
-- Blog : [RueHan-log](https://ruehan.com)
+- Blog : [개발 블로그](https://ruehan.org)
  
 - 한국전자기술연구원(KETI) Software Researcher (2021.10 ~ 2023.3) Flask / Python / Vue.js
 
