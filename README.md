@@ -46,19 +46,19 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ruehan)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C673%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C672%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-3.8%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.0%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1146 commits        ████████░░░░░░░░░░░░░░░░░   32.02 % 
-🌆 낮　                     1684 commits        ████████████░░░░░░░░░░░░░   47.05 % 
-🌃 저녁                     411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-🌙 밤　                     338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+🌞 아침                     1300 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
+🌆 낮　                     1838 commits        ████████████░░░░░░░░░░░░░   46.70 % 
+🌃 저녁                     432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+🌙 밤　                     366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 ```
 
 
@@ -86,7 +86,7 @@ Linux                    24 hrs 29 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2024 18:38:50 UTC
+ Last Updated on 09/12/2024 18:40:43 UTC
 <!--END_SECTION:waka-->
 
 
