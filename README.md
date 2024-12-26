@@ -5,18 +5,6 @@
  
 - 한국전자기술연구원(KETI) Software Researcher (2021.10 ~ 2023.3) Flask / Python / Vue.js
 
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/ruehan?pet-id=627462872730517518"
-    width="600"
-    height="120"
-  />
-</a>
-  
-  
-
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -44,11 +32,14 @@
 
 </p>
 
+
+
+<p align="center" href="https://opgc.me/#/users/ruehan" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/ruehan/tag/?theme=basic" /></p>
+
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ruehan)
+
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C692%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-3.6%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
