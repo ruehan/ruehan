@@ -32,9 +32,9 @@
 
 </p>
 
-
-
-<p align="center" href="https://opgc.me/#/users/ruehan" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/ruehan/tag/?theme=basic" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruehan&theme=cobalt&show_icons=true" />
+</p>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ruehan)
 
@@ -82,7 +82,6 @@ Mac                      31 mins             ███░░░░░░░░�
 
  Last Updated on 15/01/2025 18:37:13 UTC
 <!--END_SECTION:waka-->
-
 
 
   
