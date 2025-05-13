@@ -3,9 +3,10 @@
 
 - Blog : [개발 블로그](https://ruehan.org)
 - Portfolio : [포트폴리오](https://interactive-portfolio-chi.vercel.app/)
- 
+
+- 제로원 S/W Lead Developer (2025.04 ~ ) FastAPI / Python / React / React Native
 - 한국전자기술연구원(KETI) Software Researcher (2021.10 ~ 2023.3) Flask / Python / Vue.js
-- 제로원 Fullstack Developer & AI Engineer (2025.04 ~ ) FastAPI / Python / React / React Native
+
 
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
