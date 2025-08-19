@@ -1,45 +1,140 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HANGYU&fontSize=70&animation=twinkling)
+<div align="center">
 
-- Blog : [개발 블로그](https://ruehan.org)
-- Portfolio : [포트폴리오](https://interactive-portfolio-chi.vercel.app/)
+<!-- 애니메이션 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ruehan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Building%20Tomorrow's%20Tech&descAlignY=55&descAlign=50)
 
-- 제로원 S/W Lead Developer (2025.04 ~ ) FastAPI / Python / React / React Native
-- 한국전자기술연구원(KETI) Software Researcher (2021.10 ~ 2023.3) Flask / Python / Vue.js
+<!-- 타이핑 효과 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=🚀+Transforming+Waste+into+Resources;🤖+AI-Powered+Solutions+Developer;📱+Mobile+%26+Web+Architect" alt="Typing SVG" /></a>
 
-
-<h3 align="center"> Tech Stack </h3>
+<!-- 소셜 링크 배지 -->
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=Remix&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
-<br>
-<br>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<br>
-<br>
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-<br>
-<br>
-
+  <a href="https://ruehan.org">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://interactive-portfolio-chi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ruehan&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruehan&theme=cobalt&show_icons=true" />
+<!-- 애니메이션 구분선 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100">
+        <h3>🗑️ 쓸모 (SSEULMO)</h3>
+        <p><b>TMS 기반 음식물 폐기물 수거 서비스</b></p>
+        <p>📸 사진 기반 용량 측정<br/>🤖 AI 폐기물 분석 기술<br/>🚛 스마트 수거 최적화</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100">
+        <h3>♻️ 담비 (DAMBI)</h3>
+        <p><b>IoT 음식물 폐기물 감량기</b></p>
+        <p>🌱 친환경 폐기물 처리<br/>📊 실시간 모니터링<br/>⚡ 에너지 효율 최적화</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💼 Professional Journey
+
+<div align="center">
+  
+  <!-- Timeline -->
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="60"><br>
+        <b>2021.10 - 2023.03</b><br>
+        <img src="https://img.shields.io/badge/KETI-003478?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3VjE3TDEyIDIyTDIyIDE3VjdMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white"><br>
+        <b>Software Researcher</b><br>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlodGJwaTVrYmF2ZmI1Ym12NDlhMDN6dXAzeTkwMmgxaXNkeHlzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="60"><br>
+        <b>2023.03 - 2025.04</b><br>
+        <img src="https://img.shields.io/badge/Career_Transition-FFA500?style=for-the-badge&logo=rocket&logoColor=white"><br>
+        <b>Skill Enhancement</b><br>
+        <sub>🎯 Learning & Growing</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"><br>
+        <b>2025.04 - Present</b><br>
+        <img src="https://img.shields.io/badge/제로원-00C4CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3VjE3TDEyIDIyTDIyIDE3VjdMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white"><br>
+        <b>S/W Lead Developer</b><br>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white">
+      </td>
+    </tr>
+  </table>
+
+  <!-- Career Progress Bar -->
+  <br>
+  <img src="https://img.shields.io/badge/Experience-3+_Years-brightgreen?style=for-the-badge&logo=timer&logoColor=white">
+  <img src="https://img.shields.io/badge/Projects-15+-blue?style=for-the-badge&logo=rocket&logoColor=white">
+  <img src="https://img.shields.io/badge/Code_Quality-A+-orange?style=for-the-badge&logo=codefactor&logoColor=white">
+  
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Mastery
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,html,css,js,ts&theme=light" />
 </p>
 
-![](https://gh-hits.nomadcoders.workers.dev/view?username=ruehan)
+### ⚙️ Backend Excellence
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,java&theme=light" />
+</p>
+
+### 📱 Mobile & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,mysql,postgresql,mongodb&theme=light" />
+</p>
+
+### 🔧 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux&theme=light" />
+</p>
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruehan&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Ruehan github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruehan&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruehan&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruehan&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruehan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+  
 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C120%20hrs%2049%20mins-blue)
