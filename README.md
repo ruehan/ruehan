@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ruehan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Building%20Tomorrow's%20Tech&descAlignY=55&descAlign=50)
 
 <!-- 타이핑 효과 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=🚀+Transforming+Waste+into+Resources;🤖+AI-Powered+Solutions+Developer;📱+Mobile+%26+Web+Architect" alt="Typing SVG" /></a>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=250&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=🚀+Transforming+Waste+into+Resources;🤖+AI-Powered+Solutions+Developer;📱+Mobile+%26+Web+Architect)
 
 <!-- 소셜 링크 배지 -->
 <p align="center">
@@ -16,9 +16,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=ruehan&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
-
-<!-- 애니메이션 구분선 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
