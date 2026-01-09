@@ -134,7 +134,7 @@
   
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C354%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C356%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -156,14 +156,14 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    7 hrs 28 mins       █████████████████████████   100.00 % 
+Other                    9 hrs 58 mins       █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-Antigravity              7 hrs 26 mins       █████████████████████████   99.59 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Antigravity              9 hrs 55 mins       █████████████████████████   99.46 % 
+Terminal                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 운영 체제들: 
-Mac                      7 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **타임라인**
@@ -171,7 +171,7 @@ Mac                      7 hrs 28 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 18:45:26 UTC
+ Last Updated on 09/01/2026 18:46:58 UTC
 <!--END_SECTION:waka-->
 
 
