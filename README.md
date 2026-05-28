@@ -134,49 +134,16 @@
   
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C553%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-7.21%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
-
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     1232 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-🌆 낮　                     4729 commits        ███████████████░░░░░░░░░░   60.25 % 
-🌃 저녁                     1127 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-🌙 밤　                     761 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               4 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.07 % 
-Markdown                 2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-SQL                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-
-🔥 에디터들: 
-VS Code                  6 hrs 53 mins       ███████████████████░░░░░░   74.49 % 
-Claude Code              2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-
-💻 운영 체제들: 
-Mac                      9 hrs 9 mins        █████████████████████████   99.00 % 
-Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-```
 
 **타임라인**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 19:20:43 UTC
+ Last Updated on 28/05/2026 19:26:21 UTC
 <!--END_SECTION:waka-->
 
 
