@@ -134,7 +134,7 @@
   
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C634%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C657%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -143,10 +143,10 @@
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1303 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-🌆 낮　                     4998 commits        ███████████████░░░░░░░░░░   60.84 % 
-🌃 저녁                     1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-🌙 밤　                     762 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+🌞 아침                     1303 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+🌆 낮　                     5013 commits        ███████████████░░░░░░░░░░   60.91 % 
+🌃 저녁                     1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+🌙 밤　                     762 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 ```
 
 
@@ -156,17 +156,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 10 hrs 47 mins      ██████████████░░░░░░░░░░░   57.69 % 
-TypeScript               6 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.41 % 
-Git Config               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-CSS                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Markdown                 8 hrs 38 mins       ██████████████░░░░░░░░░░░   58.00 % 
+TypeScript               4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.44 % 
+Git Config               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 에디터들: 
-VS Code                  18 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      18 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **타임라인**
@@ -174,7 +174,7 @@ Mac                      18 hrs 42 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:58:10 UTC
+ Last Updated on 24/07/2026 19:57:49 UTC
 <!--END_SECTION:waka-->
 
 
