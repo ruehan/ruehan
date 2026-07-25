@@ -156,17 +156,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 8 hrs 38 mins       ██████████████░░░░░░░░░░░   58.00 % 
-TypeScript               4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.44 % 
-Git Config               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Markdown                 8 hrs 2 mins        ███████████████░░░░░░░░░░   60.22 % 
+TypeScript               4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Git Config               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 에디터들: 
-VS Code                  14 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      14 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **타임라인**
@@ -174,7 +174,7 @@ Mac                      14 hrs 53 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:57:49 UTC
+ Last Updated on 25/07/2026 19:43:53 UTC
 <!--END_SECTION:waka-->
 
 
