@@ -138,17 +138,17 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-7.29%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1309 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-🌆 낮　                     5018 commits        ███████████████░░░░░░░░░░   60.89 % 
-🌃 저녁                     1152 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-🌙 밤　                     762 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+🌞 아침                     1309 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+🌆 낮　                     5018 commits        ███████████████░░░░░░░░░░   60.84 % 
+🌃 저녁                     1154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+🌙 밤　                     767 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 ```
 
 
@@ -158,39 +158,42 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Astro                    56 mins             █████████████░░░░░░░░░░░░   51.09 % 
-Markdown                 51 mins             ████████████░░░░░░░░░░░░░   46.55 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Markdown                 11 hrs 49 mins      ███████████████████░░░░░░   75.67 % 
+Astro                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+TypeScript               1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 에디터들: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
+VS Code                  15 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
+Mac                      15 hrs 3 mins       ████████████████████████░   96.37 % 
+Linux                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 49 mins (99.86%)
+⏱ AI Coding Time: 15 hrs 37 mins (99.98%)
 
-✍️ 901 lines written by AI, 538 lines written by hand (62.61% AI-written)
+✍️ 7,189 lines written by AI, 538 lines written by hand (93.04% AI-written)
 
-🔤 2,331,475 Input Tokens, 81,716 Output Tokens
+🔤 18,875,619 Input Tokens, 993,254 Output Tokens
 
-💵 $8.24 Estimated AI Cost This Week
+💵 $71.53 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 11 AI Prompts
+🧠 92 AI Sessions, 42 AI Prompts
 
-M                        1,161 lines         █████████████████████████   100.00 % 
+M                        7,527 lines         █████████████████████████   99.97 % 
+Glm                      2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.61% of written lines came from AI
-📄 Detailed Prompter — average 1,371 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 34.38% of changed lines were hand-edited
+🤖 AI-Driven — 93.04% of written lines came from AI
+📚 Verbose Prompter — average 1,989 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 7.26% of changed lines were hand-edited
 ```
 
 **타임라인**
@@ -198,7 +201,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:02:17 UTC
+ Last Updated on 29/07/2026 19:54:09 UTC
 <!--END_SECTION:waka-->
 
 
