@@ -134,9 +134,9 @@
   
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C839%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C843%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-213%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -158,41 +158,41 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 9 hrs 30 mins       ████████████████░░░░░░░░░   64.69 % 
-Astro                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-TypeScript               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Markdown                 7 hrs 30 mins       ████████████░░░░░░░░░░░░░   48.74 % 
+HTML                     3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Astro                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+TypeScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 에디터들: 
-VS Code                  14 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      14 hrs 18 mins      ████████████████████████░   97.43 % 
-Linux                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Mac                      15 hrs 1 min        ████████████████████████░   97.55 % 
+Linux                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 41 mins (99.98%)
+⏱ AI Coding Time: 15 hrs 23 mins (99.98%)
 
-✍️ 16,043 lines written by AI, 538 lines written by hand (96.76% AI-written)
+✍️ 66,727 lines written by AI, 538 lines written by hand (99.2% AI-written)
 
-🔤 16,505,627 Input Tokens, 903,733 Output Tokens
+🔤 13,391,174 Input Tokens, 1,039,993 Output Tokens
 
-💵 $63.07 Estimated AI Cost This Week
+💵 $55.77 Estimated AI Cost This Week
 
-🧠 78 AI Sessions, 64 AI Prompts
+🧠 60 AI Sessions, 77 AI Prompts
 
-M                        16,503 lines        █████████████████████████   100.00 % 
+M                        67,199 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.76% of written lines came from AI
-📄 Detailed Prompter — average 1,460 characters per prompt
+🤖 AI-Driven — 99.2% of written lines came from AI
+📄 Detailed Prompter — average 1,476 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 3.45% of changed lines were hand-edited
+🚀 High AI Trust — 0.87% of changed lines were hand-edited
 ```
 
 **타임라인**
@@ -200,7 +200,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:03:18 UTC
+ Last Updated on 31/07/2026 20:04:57 UTC
 <!--END_SECTION:waka-->
 
 
