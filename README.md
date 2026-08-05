@@ -158,38 +158,38 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 5 hrs 45 mins       ███████████░░░░░░░░░░░░░░   43.63 % 
-HTML                     3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-JSON                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Bash                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+HTML                     3 hrs 35 mins       ████████████░░░░░░░░░░░░░   48.86 % 
+Markdown                 1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 에디터들: 
-VS Code                  13 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      13 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 11 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 20 mins (100.0%)
 
-✍️ 73,281 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 66,241 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,427,689 Input Tokens, 667,368 Output Tokens
+🔤 3,260,295 Input Tokens, 433,677 Output Tokens
 
-💵 $32.29 Estimated AI Cost This Week
+💵 $16.29 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 87 AI Prompts
+🧠 22 AI Sessions, 47 AI Prompts
 
-M                        73,476 lines        █████████████████████████   100.00 % 
+M                        66,400 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 669 characters per prompt
+📄 Detailed Prompter — average 820 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -199,7 +199,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:11:21 UTC
+ Last Updated on 05/08/2026 20:07:31 UTC
 <!--END_SECTION:waka-->
 
 
