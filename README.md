@@ -134,9 +134,9 @@
   
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C843%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C850%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-213%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-221%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -158,38 +158,40 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-HTML                     3 hrs 35 mins       ████████████░░░░░░░░░░░░░   48.86 % 
-Markdown                 1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Markdown                 3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+TypeScript               2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+HTML                     2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Swift                    2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 에디터들: 
-VS Code                  7 hrs 20 mins       █████████████████████████   100.00 % 
+Opencode Cli             5 hrs 44 mins       █████████████░░░░░░░░░░░░   51.79 % 
+VS Code                  5 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.21 % 
 
 💻 운영 체제들: 
-Mac                      7 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 20 mins (100.0%)
+⏱ AI Coding Time: 11 hrs 5 mins (100.0%)
 
-✍️ 66,241 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 61,217 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,260,295 Input Tokens, 433,677 Output Tokens
+🔤 3,032,504 Input Tokens, 544,314 Output Tokens
 
-💵 $16.29 Estimated AI Cost This Week
+💵 $15.60 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 47 AI Prompts
+🧠 24 AI Sessions, 46 AI Prompts
 
-M                        66,400 lines        █████████████████████████   100.00 % 
+M                        54,404 lines        ██████████████████████░░░   88.76 % 
+Qwen                     6,886 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 820 characters per prompt
+📄 Detailed Prompter — average 1,272 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -199,7 +201,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:07:31 UTC
+ Last Updated on 07/08/2026 00:26:02 UTC
 <!--END_SECTION:waka-->
 
 
