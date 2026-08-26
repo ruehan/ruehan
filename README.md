@@ -158,46 +158,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 19 mins       ████████████░░░░░░░░░░░░░   46.62 % 
-Markdown                 1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   31.32 % 
-CSS                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Codex CLI                2 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.60 % 
-Opencode Cli             2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.65 % 
-VS Code                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Grok Build               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      4 hrs 59 mins       █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (100.0%)
-
-✍️ 6,224 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,102,872 Input Tokens, 432,750 Output Tokens
-
-💵 $49.89 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 40 AI Prompts
-
-Qwen                     5,086 lines         ████████████████████░░░░░   79.57 % 
-GPT                      1,281 lines         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Codex-Cli                25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 63 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **타임라인**
@@ -205,7 +178,7 @@ Grok                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:12:10 UTC
+ Last Updated on 26/08/2026 20:28:23 UTC
 <!--END_SECTION:waka-->
 
 
