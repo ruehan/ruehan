@@ -140,15 +140,15 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-7.33%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-7.36%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1320 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-🌆 낮　                     5047 commits        ███████████████░░░░░░░░░░   60.84 % 
-🌃 저녁                     1166 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌙 밤　                     762 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+🌞 아침                     1326 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+🌆 낮　                     5060 commits        ███████████████░░░░░░░░░░   60.85 % 
+🌃 저녁                     1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+🌙 밤　                     762 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 ```
 
 
@@ -158,43 +158,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.85 % 
-Swift                    1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Image (png)              42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-JavaScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Swift                    3 hrs               ██████████░░░░░░░░░░░░░░░   39.15 % 
+Other                    1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+Image (png)              42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 
 🔥 에디터들: 
-Terminal                 3 hrs 26 mins       █████████████░░░░░░░░░░░░   51.51 % 
-Codex CLI                3 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.48 % 
+Codex CLI                4 hrs 25 mins       ██████████████░░░░░░░░░░░   57.54 % 
+Terminal                 3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.45 % 
 Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 50 mins (87.31%)
+⏱ AI Coding Time: 6 hrs 53 mins (89.73%)
 
-✍️ 2,402 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,621 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 635,120 Input Tokens, 309,076 Output Tokens
+🔤 1,270,088 Input Tokens, 386,206 Output Tokens
 
-💵 $28.04 Estimated AI Cost This Week
+💵 $34.88 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 80 AI Prompts
+🧠 14 AI Sessions, 78 AI Prompts
 
-GPT                      2,399 lines         █████████████████████████   99.67 % 
-Hermes                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+GPT                      4,309 lines         ███████████████████████░░   93.13 % 
+Codex-Cli                310 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Hermes                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 LFM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 933 characters per prompt
+📄 Detailed Prompter — average 951 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -204,7 +204,7 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:39:19 UTC
+ Last Updated on 07/09/2026 21:42:00 UTC
 <!--END_SECTION:waka-->
 
 
