@@ -158,43 +158,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Swift                    3 hrs               ██████████░░░░░░░░░░░░░░░   39.15 % 
-Other                    1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-Image (png)              42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Other                    1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   33.20 % 
+Swift                    1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+Image (png)              42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 🔥 에디터들: 
-Codex CLI                4 hrs 25 mins       ██████████████░░░░░░░░░░░   57.54 % 
-Terminal                 3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.45 % 
+Terminal                 3 hrs 12 mins       ██████████████░░░░░░░░░░░   55.49 % 
+Codex CLI                2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.50 % 
 Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 운영 체제들: 
-Mac                      7 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 53 mins (89.73%)
+⏱ AI Coding Time: 4 hrs 59 mins (86.37%)
 
-✍️ 4,621 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,402 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,270,088 Input Tokens, 386,206 Output Tokens
+🔤 562,244 Input Tokens, 282,270 Output Tokens
 
-💵 $34.88 Estimated AI Cost This Week
+💵 $26.43 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 78 AI Prompts
+🧠 11 AI Sessions, 68 AI Prompts
 
-GPT                      4,309 lines         ███████████████████████░░   93.13 % 
-Codex-Cli                310 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Hermes                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+GPT                      2,399 lines         █████████████████████████   99.67 % 
+Hermes                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 LFM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 951 characters per prompt
+📄 Detailed Prompter — average 1,075 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -204,7 +204,7 @@ LFM                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:42:00 UTC
+ Last Updated on 08/09/2026 21:21:23 UTC
 <!--END_SECTION:waka-->
 
 
