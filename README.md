@@ -158,45 +158,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   33.20 % 
-Swift                    1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-Image (png)              42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Terminal                 3 hrs 12 mins       ██████████████░░░░░░░░░░░   55.49 % 
-Codex CLI                2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.50 % 
-Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (86.37%)
-
-✍️ 2,402 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 562,244 Input Tokens, 282,270 Output Tokens
-
-💵 $26.43 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 68 AI Prompts
-
-GPT                      2,399 lines         █████████████████████████   99.67 % 
-Hermes                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-LFM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,075 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **타임라인**
@@ -204,7 +178,7 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:21:23 UTC
+ Last Updated on 09/09/2026 21:07:47 UTC
 <!--END_SECTION:waka-->
 
 
