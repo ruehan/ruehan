@@ -134,9 +134,9 @@
   
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C862%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C863%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-236%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -158,19 +158,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Markdown                 1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   39.23 % 
+JavaScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+CSS                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Rust                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+Codex CLI                2 hrs 14 mins       ███████████████████░░░░░░   75.16 % 
+Codex Vscode             23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Terminal                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 58 mins (100.0%)
+
+✍️ 2,467 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,168,840 Input Tokens, 155,123 Output Tokens
+
+💵 $56.40 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 15 AI Prompts
+
+GPT                      2,467 lines         █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 82 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **타임라인**
@@ -178,7 +202,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:05:46 UTC
+ Last Updated on 11/09/2026 21:11:16 UTC
 <!--END_SECTION:waka-->
 
 
