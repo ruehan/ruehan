@@ -158,41 +158,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 23 mins             ████████████░░░░░░░░░░░░░   50.00 % 
-YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-Swift                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Rust                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Codex CLI                45 mins             ████████████████████████░   97.59 % 
-Terminal                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (100.0%)
-
-✍️ 1,575 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 687,885 Input Tokens, 52,122 Output Tokens
-
-💵 $17.38 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 6 AI Prompts
-
-GPT                      1,575 lines         █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **타임라인**
@@ -200,7 +178,7 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:38:32 UTC
+ Last Updated on 18/09/2026 21:08:10 UTC
 <!--END_SECTION:waka-->
 
 
