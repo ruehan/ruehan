@@ -158,35 +158,42 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Swift                    1 hr 3 mins         ███████████████████████░░   92.58 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Swift                    2 hrs 13 mins       ████████████████░░░░░░░░░   63.49 % 
+Markdown                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 에디터들: 
-Codex CLI                1 hr 8 mins         █████████████████████████   100.00 % 
+Codex CLI                2 hrs 42 mins       ███████████████████░░░░░░   77.26 % 
+Codex Vscode             38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Terminal                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 30 mins (100.0%)
 
-✍️ 86 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,656 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 639,927 Input Tokens, 65,651 Output Tokens
+🔤 1,753,041 Input Tokens, 205,809 Output Tokens
 
-💵 $23.95 Estimated AI Cost This Week
+💵 $65.34 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
-GPT                      86 lines            █████████████████████████   100.00 % 
+GPT                      1,611 lines         ████████████████████████░   96.93 % 
+Codex-Cli                51 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 9 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 220 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -195,7 +202,7 @@ GPT                      86 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:42:06 UTC
+ Last Updated on 24/09/2026 21:43:21 UTC
 <!--END_SECTION:waka-->
 
 
