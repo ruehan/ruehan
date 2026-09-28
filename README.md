@@ -158,36 +158,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Swift                    1 hr 3 mins         ███████████████████████░░   92.58 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Codex CLI                1 hr 8 mins         █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (100.0%)
-
-✍️ 86 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 639,927 Input Tokens, 65,651 Output Tokens
-
-💵 $23.95 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-GPT                      86 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 9 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **타임라인**
@@ -195,7 +178,7 @@ GPT                      86 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:33:54 UTC
+ Last Updated on 28/09/2026 23:29:10 UTC
 <!--END_SECTION:waka-->
 
 
