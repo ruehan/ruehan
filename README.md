@@ -134,9 +134,9 @@
   
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-238%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -158,37 +158,41 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 32 mins             ███████████████████████░░   91.58 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Markdown                 32 mins             ██████████░░░░░░░░░░░░░░░   38.05 % 
+Python                   29 mins             █████████░░░░░░░░░░░░░░░░   34.48 % 
+Other                    23 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
 
 🔥 에디터들: 
-Codex CLI                32 mins             ███████████████████████░░   91.58 % 
-Terminal                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Codex CLI                48 mins             ██████████████░░░░░░░░░░░   57.17 % 
+Terminal                 30 mins             █████████░░░░░░░░░░░░░░░░   35.30 % 
+Codex Vscode             6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 💻 운영 체제들: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (91.58%)
+⏱ AI Coding Time: 1 hr 1 min (72.53%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 69 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 176,063 Input Tokens, 33,772 Output Tokens
+🔤 692,508 Input Tokens, 62,710 Output Tokens
 
-💵 $11.84 Estimated AI Cost This Week
+💵 $25.20 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 5 AI Sessions, 8 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      69 lines            █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,448 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,402 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **타임라인**
@@ -196,7 +200,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:15:06 UTC
+ Last Updated on 13/10/2026 00:57:16 UTC
 <!--END_SECTION:waka-->
 
 
