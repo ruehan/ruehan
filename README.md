@@ -140,15 +140,15 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-7.36%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-7.42%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1326 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-🌆 낮　                     5060 commits        ███████████████░░░░░░░░░░   60.85 % 
-🌃 저녁                     1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-🌙 밤　                     762 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+🌞 아침                     1338 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+🌆 낮　                     5108 commits        ███████████████░░░░░░░░░░   60.98 % 
+🌃 저녁                     1168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+🌙 밤　                     762 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 ```
 
 
@@ -204,7 +204,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:39:13 UTC
+ Last Updated on 16/10/2026 21:32:26 UTC
 <!--END_SECTION:waka-->
 
 
