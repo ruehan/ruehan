@@ -158,35 +158,35 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.31 % 
-Other                    1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Markdown                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Python                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Rust                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript               3 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.71 % 
+Other                    1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Python                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Rust                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 에디터들: 
-Codex CLI                4 hrs 30 mins       ████████████████░░░░░░░░░   64.83 % 
-Antigravity              50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Terminal                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Antigravity Desktop      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Antigravity CLI          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Codex CLI                3 hrs 58 mins       ████████████████░░░░░░░░░   62.60 % 
+Antigravity              50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Terminal                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Antigravity Desktop      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Antigravity CLI          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 29 mins (93.41%)
+⏱ AI Coding Time: 5 hrs 57 mins (93.97%)
 
 ✍️ 1,171 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,782,660 Input Tokens, 281,349 Output Tokens
+🔤 1,606,597 Input Tokens, 247,577 Output Tokens
 
-💵 $93.07 Estimated AI Cost This Week
+💵 $81.23 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 44 AI Prompts
+🧠 11 AI Sessions, 42 AI Prompts
 
 GPT                      1,171 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -194,7 +194,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,329 characters per prompt
+📄 Detailed Prompter — average 1,228 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -204,7 +204,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:50:45 UTC
+ Last Updated on 18/10/2026 21:00:37 UTC
 <!--END_SECTION:waka-->
 
 
