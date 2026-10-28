@@ -158,42 +158,38 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 17 mins       █████████████████░░░░░░░░   69.11 % 
-JavaScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript               20 mins             ██████████████████░░░░░░░   71.91 % 
+Other                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 에디터들: 
-Codex Vscode             1 hr 41 mins        █████████████░░░░░░░░░░░░   50.90 % 
-Codex CLI                1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   32.49 % 
-Terminal                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Codex CLI                22 mins             ███████████████████░░░░░░   77.31 % 
+Terminal                 6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
 
 💻 운영 체제들: 
-Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 12 mins (96.68%)
+⏱ AI Coding Time: 22 mins (77.37%)
 
-✍️ 1,270 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 309 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,159,149 Input Tokens, 147,851 Output Tokens
+🔤 112,933 Input Tokens, 13,594 Output Tokens
 
-💵 $48.08 Estimated AI Cost This Week
+💵 $4.35 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 43 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-GPT                      1,266 lines         █████████████████████████   98.83 % 
-Codex-Cli                15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      309 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,744 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 13 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -202,7 +198,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:32:25 UTC
+ Last Updated on 28/10/2026 22:48:35 UTC
 <!--END_SECTION:waka-->
 
 
