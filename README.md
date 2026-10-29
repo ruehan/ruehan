@@ -138,7 +138,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-7.16%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -158,39 +158,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               20 mins             ██████████████████░░░░░░░   71.91 % 
-Other                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Codex CLI                22 mins             ███████████████████░░░░░░   77.31 % 
-Terminal                 6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (77.37%)
-
-✍️ 309 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 112,933 Input Tokens, 13,594 Output Tokens
-
-💵 $4.35 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-GPT                      309 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 13 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **타임라인**
@@ -198,7 +178,7 @@ GPT                      309 lines           ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/ruehan/ruehan/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:48:35 UTC
+ Last Updated on 29/10/2026 22:57:47 UTC
 <!--END_SECTION:waka-->
 
 
