@@ -1,137 +1,159 @@
 <div align="center">
 
-<!-- 애니메이션 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ruehan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Building%20Tomorrow's%20Tech&descAlignY=55&descAlign=50)
+<!-- 글리치 배너 (svg-banners) -->
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Ruehan%20💧&text2=DX%20%26%20AI%20Engineer%20@%20MOISTEN&width=1100&height=250" width="100%" alt="Ruehan banner"/>
 
-<!-- 타이핑 효과 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=250&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=🚀+Transforming+Waste+into+Resources;🤖+AI-Powered+Solutions+Developer;📱+Mobile+%26+Web+Architect)
-
-<!-- 소셜 링크 배지 -->
-<p align="center">
-  <a href="https://ruehan.org">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://interactive-portfolio-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ruehan&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
-
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100">
-        <h3>🗑️ 쓸모 (SSEULMO)</h3>
-        <p><b>TMS 기반 음식물 폐기물 수거 서비스</b></p>
-        <p>📸 사진 기반 용량 측정<br/>🤖 AI 폐기물 분석 기술<br/>🚛 스마트 수거 최적화</p>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100">
-        <h3>♻️ 담비 (DAMBI)</h3>
-        <p><b>IoT 음식물 폐기물 감량기</b></p>
-        <p>🌱 친환경 폐기물 처리<br/>📊 실시간 모니터링<br/>⚡ 에너지 효율 최적화</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 💼 Professional Journey
-
-<div align="center">
-  
-  <!-- Timeline -->
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="60"><br>
-        <b>2021.10 - 2023.03</b><br>
-        <img src="https://img.shields.io/badge/KETI-003478?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3VjE3TDEyIDIyTDIyIDE3VjdMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white"><br>
-        <b>Software Researcher</b><br>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlodGJwaTVrYmF2ZmI1Ym12NDlhMDN6dXAzeTkwMmgxaXNkeHlzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="60"><br>
-        <b>2023.03 - 2025.04</b><br>
-        <img src="https://img.shields.io/badge/Career_Transition-FFA500?style=for-the-badge&logo=rocket&logoColor=white"><br>
-        <b>Skill Enhancement</b><br>
-        <sub>🎯 Learning & Growing</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"><br>
-        <b>2025.04 - Present</b><br>
-        <img src="https://img.shields.io/badge/제로원-00C4CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3VjE3TDEyIDIyTDIyIDE3VjdMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white"><br>
-        <b>S/W Lead Developer</b><br>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white">
-      </td>
-    </tr>
-  </table>
-
-  <!-- Career Progress Bar -->
-  <br>
-  <img src="https://img.shields.io/badge/Experience-3+_Years-brightgreen?style=for-the-badge&logo=timer&logoColor=white">
-  <img src="https://img.shields.io/badge/Projects-15+-blue?style=for-the-badge&logo=rocket&logoColor=white">
-  <img src="https://img.shields.io/badge/Code_Quality-A+-orange?style=for-the-badge&logo=codefactor&logoColor=white">
-  
-</div>
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Mastery
+<!-- 뱃지 -->
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,vue,html,css,js,ts&theme=light" />
+  <a href="https://moisten.co.kr"><img src="https://img.shields.io/badge/💧_MOISTEN-0e4d92?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://ruehan.org"><img src="https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=blogger&logoColor=36bcf7"/></a>
+  <a href="https://interactive-portfolio-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=36bcf7"/></a>
 </p>
 
-### ⚙️ Backend Excellence
+</div>
+
+## 🌊 `01` — Surface
+
+```yaml
+name:       HanGyu
+role:       DX & AI Engineer
+company:    MOISTEN  ·  Biotech × Beauty (ACHA 기반 수분 테크놀로지)
+mission:    시스템 구축  ·  업무 효율화  ·  AI 실무 적용
+```
+
+## 🌊 `02` — Descent Log
+
+| 🫧 | 기간 | 소속 | 역할 | 핵심 스택 |
+|:--:|:--|:--|:--|:--|
+| 💧 | `2021.10 — 2023.03` | **KETI** | Software Researcher | `Python` `Flask` `Vue.js` |
+| 💧💧 | `2023.03 — 2025.04` | **Career Transition** | Skill Enhancement | `Learning & Growing` |
+| 💧💧💧 | `2025.04 — 2026.10` | **제로원** | S/W Lead Developer | `FastAPI` `React` `React Native` |
+| 🌊 | `2026.11 — Present` | **MOISTEN** | **DX & AI Engineer** | `System Design` `AI/LLM` `Automation` |
+
+## 🌊 `03` — Current Dive @ MOISTEN
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <h2>🏗️</h2>
+      <h3>System Architecture</h3>
+      <p>유통 · 제조 · CS를 잇는<br/><b>통합 디지털 인프라</b> 설계</p>
+      <br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <h2>⚡</h2>
+      <h3>Digital Transformation</h3>
+      <p>반복 업무 자동화와<br/><b>데이터 기반 의사결정</b> 체계 구축</p>
+      <br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <h2>🤖</h2>
+      <h3>AI Integration</h3>
+      <p>LLM 업무 어시스턴트 등<br/><b>현장에 스며드는 AI</b> 도입</p>
+      <br/>
+    </td>
+  </tr>
+</table>
+</div>
+
+## 🌊 `04` — Logged Expeditions
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗑️ 쓸모 (SSEULMO)</h3>
+      <p><b>TMS 기반 음식물 폐기물 수거 서비스</b></p>
+      <p>📸 사진 기반 용량 측정 · 🤖 AI 폐기물 분석 · 🚛 스마트 수거 최적화</p>
+      <sub>@ 제로원</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>♻️ 담비 (DAMBI)</h3>
+      <p><b>IoT 음식물 폐기물 감량기</b></p>
+      <p>🌱 친환경 폐기물 처리 · 📊 실시간 모니터링 · ⚡ 에너지 효율 최적화</p>
+      <sub>@ 제로원</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+## 🌊 `05` — Toolbox
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      <br/><sub><b>Frontend</b></sub>
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      <br/><sub><b>Backend</b></sub>
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+      <br/><sub><b>Mobile · DB</b></sub>
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+      <br/><sub><b>DevOps · Tools</b></sub>
+    </td>
+  </tr>
+</table>
+
+<sub>🤖 AI / Automation — new gear for the deep dive</sub>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,java&theme=light" />
-</p>
-
-### 📱 Mobile & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=react,androidstudio,mysql,postgresql,mongodb&theme=light" />
-</p>
-
-### 🔧 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux&theme=light" />
+  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=36bcf7"/>
+  <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=36bcf7"/>
+  <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=36bcf7"/>
+  <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=36bcf7"/>
 </p>
 
 </div>
 
-## 📊 GitHub Analytics
+## 📡 Sonar — Signals from the Deep
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruehan&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Ruehan github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruehan&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruehan&theme=algolia" width="100%"/>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruehan&theme=algolia"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruehan&theme=algolia&timeZone=Asia/Seoul"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruehan&theme=algolia"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruehan&theme=algolia"/></td>
+  </tr>
+</table>
+
+<!-- 기여도 캘린더 (ghchart) -->
+<img src="https://ghchart.rshah.org/36bcf7/ruehan" width="100%" alt="Ruehan's Github chart"/>
+
+<br/>
+
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruehan&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruehan&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruehan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
-</div>
-  
 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%203%20mins-blue?style=flat)
@@ -181,7 +203,8 @@ No AI Coding Activity Tracked This Week
  Last Updated on 31/10/2026 21:50:17 UTC
 <!--END_SECTION:waka-->
 
+<div align="center">
 
-  
+<sub>🌊 Stay Hydrated — the deeper you go, the clearer it gets.</sub>
 
-
+</div>
